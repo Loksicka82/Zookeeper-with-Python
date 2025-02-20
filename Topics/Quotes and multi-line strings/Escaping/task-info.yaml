@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A forward slash (/)
+  - text: A percent sign (%)
+  - text: A backslash symbol (\)
+  - text: Single quotes ('')
+  - text: Double quotes ("")
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6880#comment
+status: Solved
+record: -1
+local_check: false

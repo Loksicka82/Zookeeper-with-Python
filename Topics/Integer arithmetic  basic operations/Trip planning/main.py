@@ -1,0 +1,1 @@
+print((1500 - 600 - 300 - 200) // 25)# put your python code here
